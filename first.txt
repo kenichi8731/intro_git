@@ -1,7 +1,11 @@
 gitの練習
 最初の講義を学ぶ
+<<<<<<< HEAD
 git add
 git commit
 git rm
 git status
 git diff
+=======
+desktop test
+>>>>>>> eb0cc109a59f9c845037cedcbc82a3dedcc93713
